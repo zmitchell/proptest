@@ -4,6 +4,8 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/ofe98xfthbx1m608/branch/master?svg=true)](https://ci.appveyor.com/project/AltSysrq/proptest/branch/master)
 [![](http://meritbadge.herokuapp.com/proptest)](https://crates.io/crates/proptest)
 
+[Documentation](https://altsysrq.github.io/rustdoc/proptest/0.8.7/proptest/)
+
 Proptest is a property testing framework (i.e., the QuickCheck family)
 inspired by the [Hypothesis](http://hypothesis.works/) framework for
 Python. It allows to test that certain properties of your code hold for
